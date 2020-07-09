@@ -1,0 +1,12 @@
+{
+	"info": {
+		"_postman_id": "849eb7f7-84b6-44e8-a450-cbd2ee9a8267",
+		"name": "test api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [],
+	"auth": {
+		"type": "bearer"
+	},
+	"protocolProfileBehavior": {}
+}
